@@ -4,14 +4,21 @@
     text-align: left !important;
     padding: 0 !important;
 }
+
 #new_prefs_dialog .dialog_tab_pane {
     width: 100% !important;
     padding: 1rem 1rem 1rem 1rem !important;
 }
+
 #new_prefs_dialog {
     width: 875px !important;
 }
+
 .modal label.theme_label {
     width: 100px;
     height: 125px;
+}
+
+input#sidebar_theme_custom {
+  width: 100% !important;
 }
